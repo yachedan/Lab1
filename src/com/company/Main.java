@@ -17,7 +17,7 @@ public class Main {
                             " And a human ear can hear sounds in a range of " + minHz +"Hz " + "up to " + maxHz + "Hz." +
                             "\nI have " + numOfCats + " cats." + " Cats can hear frequencies up to "  + catHz + " Hz." +
                             "\nThese statements are " + f + ".");
-
+        int a;
 
         
     }
